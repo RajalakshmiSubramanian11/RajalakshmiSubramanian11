@@ -16,6 +16,7 @@
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
   ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+  https://img.shields.io/badge/logo-powerbi-blue?logo=powerbi
   
   ---
 
