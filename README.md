@@ -2,7 +2,7 @@
 
 <h2> Hey I'm Rajalakshmi Subramanian 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - ⚡ &nbsp; Embarking on coding and growing my GitHub project portfolio to launch my career in data, while expanding my technical and analytical abilities.
 - 💻 &nbsp; Mathematics graduate, Focusing on enhancing my SQL proficiency to extract valuable insights from data, and developing my understanding of Tableau and Power BI.
