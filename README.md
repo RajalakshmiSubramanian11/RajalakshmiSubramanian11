@@ -24,7 +24,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=" https://www.linkedin.com/in/rajalakshmi-subramanian-910812370/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rajalakshmi-subramanian-910812370-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rajalakshmi-subramanian-910812370/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
+</a>
 <a href="mailto:rajalakshmi.ramesh@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajalakshmi.ramesh@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
