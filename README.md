@@ -30,4 +30,7 @@
 <a href="mailto:rajalakshmi.ramesh@yahoo.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-rajalakshmi.ramesh@yahoo.com-blue?style=flat-square&logo=yahoo">
 </a>
+
+
+  <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
